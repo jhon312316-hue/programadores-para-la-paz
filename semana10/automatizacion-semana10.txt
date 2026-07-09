@@ -1,0 +1,13 @@
+AUTOMATIZACIÓN - SEMANA 10
+
+Evento que activa el flujo:
+Se registra una nueva denuncia o reporte ciudadano en la plataforma.
+
+Acción:
+n8n detecta el nuevo registro y envía automáticamente una notificación al grupo de Telegram del equipo de trabajo.
+
+Mensaje que se enviaría a Telegram:
+"Nuevo reporte ciudadano recibido. Ingrese a la plataforma para revisar y dar seguimiento al caso."
+
+Información que NO debe enviarse por seguridad:
+No se deben enviar nombres completos, números de documento, direcciones, teléfonos, correos electrónicos, contraseñas ni ningún otro dato personal o sensible.
