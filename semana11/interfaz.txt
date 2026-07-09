@@ -1,0 +1,9 @@
+INTERFAZ - SEMANA 11
+
+La plataforma tendrá un formulario para crear una nueva causa comunitaria, donde el usuario podrá ingresar el título, la descripción y la fecha de la solicitud.
+
+También contará con una lista de causas disponibles para que los ciudadanos puedan consultarlas fácilmente.
+
+Cada causa tendrá un botón para brindar apoyo y un contador que mostrará el número de apoyos recibidos.
+
+La interfaz será sencilla, organizada y fácil de usar. Además, protegerá la privacidad de los usuarios, evitando mostrar información personal o datos sensibles.
