@@ -1,0 +1,7 @@
+AUTENTICACIÓN - SEMANA 11
+
+El login es el proceso que permite identificar a un usuario antes de darle acceso a una aplicación. Gracias a la autenticación, el sistema puede verificar la identidad de cada persona y controlar qué funciones puede utilizar.
+
+Algunas rutas deben estar protegidas porque contienen información privada o permiten realizar acciones importantes que no deben estar disponibles para cualquier usuario.
+
+No se deben exponer públicamente contraseñas, documentos de identidad, números de teléfono, direcciones, correos electrónicos, tokens, claves de API ni otros datos sensibles de la comunidad.
