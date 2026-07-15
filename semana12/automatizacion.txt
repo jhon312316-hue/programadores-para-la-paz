@@ -1,0 +1,13 @@
+AUTOMATIZACIÓN - PETICIÓN EN 3 CLICS
+
+Evento que activa la automatización:
+Se registra una nueva causa en la plataforma.
+
+Acción:
+n8n detecta el nuevo registro y envía automáticamente una notificación al grupo de Telegram.
+
+Mensaje:
+"Nueva causa registrada en la plataforma. Revísela y apoye la iniciativa si lo considera pertinente."
+
+Información que NO debe enviarse:
+No se deben enviar cédulas, números de teléfono, direcciones, correos electrónicos, comentarios privados, contraseñas ni ningún otro dato personal o sensible.
