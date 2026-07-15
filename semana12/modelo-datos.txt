@@ -1,0 +1,24 @@
+MODELO DE DATOS - PETICIÓN EN 3 CLICS
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar la información de cada causa o petición creada por la comunidad para que pueda ser consultada y recibir apoyos.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registrar los apoyos que recibe cada causa y llevar un control de la participación ciudadana.
